@@ -10,7 +10,7 @@ Authors: Qishun Yu, Catherine Pavlov, Wooshik Kim
 
 Affiliation: [The Robomechanics Lab at Carnegie Mellon University](https://www.cmu.edu/me/robomechanicslab/)<br />
 
-The code has been tested under [ROS] Melodic on Ubuntu 18.04.
+The code has been tested under Ubuntu 18.04.
 This is research code, expect that it changes often and any fitness for a particular purpose is disclaimed.
 
 ## Usage
